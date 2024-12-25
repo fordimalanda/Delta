@@ -24,6 +24,11 @@ Avant d'exécuter ce programme, vous devez avoir **GCC** installé sur votre mac
 
 Une fois GCC installé, vous pouvez compiler le programme à l'aide de la commande suivante dans le terminal. Assurez-vous de vous trouver dans le répertoire du projet où se trouvent les fichiers source.
 
+### Commande pour compiler avec GCC :
+
+```bash
+gcc main.c src/*.c -o App/App
+
 ## Structure du projet
 /mon-projet
 │
@@ -35,9 +40,3 @@ Une fois GCC installé, vous pouvez compiler le programme à l'aide de la comman
 │   ├── ao.c             # Calcul des solutions réelles
 │   ├── formule.c        # Formule pour les racines
 └── /App                 # Dossier contenant l'exécutable compilé
-
-### Commande pour compiler avec GCC :
-
-```bash
-gcc main.c src/*.c -o App/App
-

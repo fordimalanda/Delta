@@ -28,3 +28,15 @@ Une fois GCC installé, vous pouvez compiler le programme à l'aide de la comman
 
 ```bash
 gcc main.c src/*.c -o App/App
+
+## Structure du projet
+/mon-projet
+│
+├── main.c               # Point d'entrée du programme
+├── src/                 # Dossier contenant les fichiers sources
+│   ├── question.c       # Fonction de saisie des coefficients
+│   ├── fin_du_program.c # Fonction de fin du programme
+│   ├── delta.c          # Calcul du discriminant
+│   ├── ao.c             # Calcul des solutions réelles
+│   ├── formule.c        # Formule pour les racines
+└── /App                 # Dossier contenant l'exécutable compilé

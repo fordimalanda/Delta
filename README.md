@@ -8,18 +8,6 @@ ax^2 + bx + c = 0
 
 Le programme calcule les racines de l'équation, en tenant compte du discriminant (\( \Delta \)) pour déterminer si les solutions sont réelles ou complexes.
 
-## Structure du projet :
-/mon-projet
-│
-├── main.c               # Point d'entrée du programme
-├── src/                 # Dossier contenant les fichiers sources
-│   ├── question.c       # Fonction de saisie des coefficients
-│   ├── fin_du_program.c # Fonction de fin du programme
-│   ├── delta.c          # Calcul du discriminant
-│   ├── ao.c             # Calcul des solutions réelles
-│   ├── formule.c        # Formule pour les racines
-└── /App                 # Dossier contenant l'exécutable compilé
-
 ## Prérequis
 
 Avant d'exécuter ce programme, vous devez avoir **GCC** installé sur votre machine. GCC (GNU Compiler Collection) est un compilateur pour divers langages, y compris le langage C.

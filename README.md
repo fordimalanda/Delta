@@ -30,6 +30,7 @@ Une fois GCC installé, vous pouvez compiler le programme à l'aide de la comman
 gcc main.c src/*.c -o App/App
 
 ## Structure du projet
+```bash
 /mon-projet
 │
 ├── main.c               # Point d'entrée du programme

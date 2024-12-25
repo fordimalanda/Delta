@@ -9,7 +9,6 @@ ax^2 + bx + c = 0
 Le programme calcule les racines de l'équation, en tenant compte du discriminant (\( \Delta \)) pour déterminer si les solutions sont réelles ou complexes.
 
 ## Structure du projet :
-```bash
 /mon-projet
 │
 ├── main.c               # Point d'entrée du programme

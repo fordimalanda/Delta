@@ -27,7 +27,7 @@ Une fois GCC installé, vous pouvez compiler le programme à l'aide de la comman
 ### Commande pour compiler avec GCC :
 
 ```bash
-gcc main.c src/*.c -o App/App
+gcc main.c src/*.c -o App/App```
 
 ## Structure du projet
 /mon-projet

@@ -28,7 +28,3 @@ Une fois GCC installé, vous pouvez compiler le programme à l'aide de la comman
 
 ```bash
 gcc main.c src/*.c -o App/App
-<<<<<<< HEAD
-=======
-
->>>>>>> cdfac5feff20ef4b731d93589d4597a06e96ad4b

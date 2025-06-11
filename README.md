@@ -1,3 +1,6 @@
+[![Langage](https://img.shields.io/badge/Langage-C-blue.svg?logo=c&logoColor=white)](https://fr.wikipedia.org/wiki/C_(langage))
+[![Compilateur](https://img.shields.io/badge/Compilateur-GCC-green.svg?logo=gcc&logoColor=white)](https://gcc.gnu.org/)
+
 # Résolution d'une équation du second degré en C
 
 Ce projet en langage C résout l'équation du second degré de la forme :
